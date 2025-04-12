@@ -1,0 +1,1 @@
+Projeto feito para inicialiazar meu estudos com Front-End. Site simples de um tênis da Nike onde quando clicado nos botões de cores, altera a cor do tênis, do fundo e do botão de adicionar ao carrinho.
